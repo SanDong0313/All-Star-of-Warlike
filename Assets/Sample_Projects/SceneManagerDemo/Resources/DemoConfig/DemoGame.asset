@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0c81683c9a14e128bad9615424706b, type: 3}
+  m_Name: DemoGame
+  m_EditorClassIdentifier: 
+  activeConfiguration: 0
+  levels:
+  - Level1
+  - Level2
+  screens:
+  - Intro
+  - MainMenu
+  - LevelSelectionMenu
+  firstScreen: Intro
+  firstScreenAfterLevel: MainMenu
+  _guid: c46211ee-9b94-4456-b377-d1c82d37c334
+--- !u!1002 &11400001
+EditorExtensionImpl:
+  serializedVersion: 6

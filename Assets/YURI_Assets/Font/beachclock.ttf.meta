@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 125925fdd049a6742a09b527b37c113f
+timeCreated: 1624043227
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Punk Forever
+  fontNames:
+  - CF Punk Forever
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

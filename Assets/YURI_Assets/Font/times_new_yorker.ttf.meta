@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b2dc939345ece0f458b15199dc197b1d
+timeCreated: 1624043228
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Times New Yorker
+  fontNames:
+  - Times New Yorker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

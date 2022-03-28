@@ -1,0 +1,4 @@
+#Mon Mar 21 19:04:18 PDT 2022
+base.0=D\:\\Unity\\Studio\\YU-RI Team\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
